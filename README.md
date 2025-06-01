@@ -11,7 +11,7 @@ Genre Classification and Song Recommendation on the Free Music Archive Dataset (
 
 Keywords — Machine Learning, Music, Classification, Recommendation, XGBoost
 
-Notes : 
+### Notes : 
 
 Optimized_Data_Classification.ipynb - Classification Notebook which trains XGBoost model on optimized_model_data.csv (not provided), monitoring metrics and saving the model.
 
